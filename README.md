@@ -2,7 +2,7 @@
 
 ## 박현규의 git
 
-###개발환경 
+##개발환경 
 python 3.7.3
 opencv 4.5.1
 tensorflow 2.2.0
